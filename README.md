@@ -30,6 +30,6 @@ you can also using auto-py-to-exe [link](https://github.com/brentvollebregt/auto
 #### this tool is created in arabic so Feel free to fork it and modify according to your language needs ...
 
 ### Credits and Licence and 
-Credits :`flaticon.com` for icon file and mak23 for EncryptionScript
+Credits :`freepik.com` for icon file and mak23 for EncryptionScript
 
 License: [MIT](https://opensource.org/licenses/MIT)
