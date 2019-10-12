@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```sh
 python setup.py build
 ```
-#### you can also using auto-py-to-exe [link]
+you can also using auto-py-to-exe [link](https://github.com/brentvollebregt/auto-py-to-exe/)
 
 
 #### file included the Executable
@@ -33,4 +33,3 @@ python setup.py build
 Credits :`flaticon.com` for icon file and mak23 for EncryptionScript
 
 License: [MIT](https://opensource.org/licenses/MIT)
-[link]: https://github.com/brentvollebregt/auto-py-to-exe/
