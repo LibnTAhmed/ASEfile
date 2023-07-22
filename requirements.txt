@@ -1,4 +1,4 @@
 Eel==0.10.4
-PyInstaller==3.4
+PyInstaller==3.6
 cx_freeze==6.0
 pycryptodomex==3.9.0
